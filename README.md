@@ -30,12 +30,12 @@
 
 <p align="left">
 <a href="https://github.com/Jihanetbh">
-  <img height="180em" align="left" src='https://github-readme-stats.vercel.app/api?username=Jihanetbh&hide=["stars"]&show_icons=true'/>
+  <img height="170em" align="left" src='https://github-readme-stats.vercel.app/api?username=Jihanetbh&hide=["stars"]&show_icons=true'/>
 </a>
 </p>
 
 <p align="left">
 <a href="https://github.com/Jihanetbh">
-  <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jihanetbh&layout=compact&langs_count=8"/>
+  <img height="170em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jihanetbh&layout=compact&langs_count=8"/>
 </a>
 </p>
