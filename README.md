@@ -7,7 +7,7 @@
 ### 👩‍💻 &nbsp;About me
 - 🔭 I’m currently working on a ROMAJI lyrics for japanese music mobile application using Android Studio and Python for data scrapping.
 - 🎓 I am currently pursuing a degree in IT engineering & project management at Morocco's National Institute of Posts and Telecommunications INPT in Rabat.<br>
-- 💭 Interested in Machine Learning and AI.
+- 💭 Interested in DevSecOps and Machine Learning.
 - 🌱 I'm developping my project management skills by learning about Lean and Agile methodologies, SCRUM, PMBOK , PRINCE2...
 - 📫 How to reach me:
 
