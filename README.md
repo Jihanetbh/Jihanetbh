@@ -2,7 +2,7 @@
 <h3 align="center">I am Jihane AMMAOUI. Aspiring IT Project Manager.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jihanetbh&label=Profile%20views&color=0e75b6&style=flat" alt="Jihane AMMAOUI" /> </p>
   
-:heart: Learning | 🎵 Music | :blue_heart: Anime
+:heart: Learning | 🎵 Music | :blue_heart: TeamWork
   
 ### 👩‍💻 &nbsp;About me
 - 🔭 I’m currently working on a ROMAJI lyrics for japanese music mobile application using Android Studio and Python for data scrapping.
