@@ -1,12 +1,12 @@
 
-<h3 align="center">I am Jihane AMMAOUI. Aspiring IT Project Manager.</h3>
+<h3 align="center">I am Jihane AMMAOUI.IT Project Manager.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jihanetbh&label=Profile%20views&color=0e75b6&style=flat" alt="Jihane AMMAOUI" /> </p>
   
 :heart: Learning | 🎵 Music | :blue_heart: TeamWork
   
 ### 👩‍💻 &nbsp;About me
 - 🔭 I’m currently working on a ROMAJI lyrics for japanese music mobile application using Android Studio and Python for data scrapping.
-- 🎓 I am currently pursuing a degree in IT engineering & project management at Morocco's National Institute of Posts and Telecommunications INPT in Rabat.<br>
+- 🎓 I am a freshly graduated IT engineer currently pursuing a secondary masters degree in Innovation Management specialized in digital transformation and CSR.<br>
 - 💭 Interested in DevSecOps and Machine Learning.
 - 🌱 I'm developping my project management skills by learning about Lean and Agile methodologies, SCRUM, PMBOK , PRINCE2...
 - 📫 How to reach me:
